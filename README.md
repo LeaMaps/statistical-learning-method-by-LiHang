@@ -1,2 +1,5 @@
 # statistical-learning-method-by-LiHang
-一些自己的学习笔记和资料整理
+[优秀仓库、代码](https://github.com/SmirkCao/Lihang)
+
+[习题解答](https://datawhalechina.github.io/statistical-learning-method-solutions-manual/#/)
+
